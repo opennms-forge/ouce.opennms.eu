@@ -1,0 +1,78 @@
+baseurl: "https://ouce.opennms.eu/"
+title: "OUCE 2018"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: "UA-9232216-1"
+
+params:
+  # Conference info
+  Name: "OUCE 2018"
+  Description: "OpenNMS User Conference Europe"
+  Date: "Oktober"
+  # Price: "Only $100" # If your event is free, just comment this line
+  Venue: "To be defined"
+  Address: "To be defined"
+  City:  "Munich"
+  State: "Bavaria"
+  Images: ["/img/badge.jpg"]
+  GoogleMapsKey: "my-secret-maps-key"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - location
+    - speakers
+    - schedule
+    - sponsors
+    - partners
+    #- contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "About"
+    location: "Location"
+    speakers: "Speakers"
+    schedule: "Schedule"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    contact: "Contact"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+    text: "Register now!"
+    link: "http://register.ouce.opennms.eu"
+
+  # List of Sponsors
+  Sponsors:
+    - name: "Hugo"
+      logo: "/img/hugo.png"
+      url: "http://gohugo.io"
+
+  # List of Partners
+  Partners:
+    - name: "The OpenNMS Group"
+      logo: "/img/hugo.jpg"
+      url: "https://www.opennms.com"
+    - name: "NETHINKS GmbH"
+      logo: "/img/partner.png"
+      url: "https://www.nethinks.com"
+
+  # The entire schedule
+  Schedule:
+    - name: "Check-in / Breakfast"
+      time: "9h00"
+
+    - name: "Speaker Name"
+      photo: "/img/speaker.jpg"
+      bio: "Speaker Bio"
+      company: "Speaker Company"
+      link:
+        href: "https://www.opennms.org"
+        text: "This is my link text"
+      presentation:
+        title: "Presentation Title"
+        description: "Presentation Description"
+        time: "10h00"
