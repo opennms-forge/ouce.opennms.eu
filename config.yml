@@ -11,8 +11,8 @@ params:
   Description: "OpenNMS User Conference Europe"
   Date: "Oktober"
   # Price: "Only $100" # If your event is free, just comment this line
-  Venue: "To be defined"
-  Address: "To be defined"
+  Venue: ""
+  Address: ""
   City:  "Munich"
   State: "Bavaria"
   Images: ["/img/badge.jpg"]
@@ -22,10 +22,9 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    - location
-    - speakers
-    - schedule
-    - sponsors
+    # - location
+    # - speakers
+    # - schedule
     - partners
     #- contact
 
@@ -46,18 +45,18 @@ params:
     link: "http://register.ouce.opennms.eu"
 
   # List of Sponsors
-  Sponsors:
-    - name: "Hugo"
-      logo: "/img/hugo.png"
-      url: "http://gohugo.io"
+  # Sponsors:
+  #   - name: "Hugo"
+  #     logo: "/img/hugo.png"
+  #     url: "http://gohugo.io"
 
   # List of Partners
   Partners:
     - name: "The OpenNMS Group"
-      logo: "/img/hugo.jpg"
+      logo: "/img/opennms-logo.png"
       url: "https://www.opennms.com"
     - name: "NETHINKS GmbH"
-      logo: "/img/partner.png"
+      logo: "/img/nethinks-logo.jpg"
       url: "https://www.nethinks.com"
 
   # The entire schedule
