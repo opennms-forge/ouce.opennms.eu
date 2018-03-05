@@ -11,8 +11,8 @@ params:
   Description: "OpenNMS User Conference Europe"
   Date: "Oktober"
   # Price: "Only $100" # If your event is free, just comment this line
-  Venue: ""
-  Address: ""
+  Venue: "To be defined"
+  Address: "To be defined"
   City:  "Munich"
   State: "Bavaria"
   Images: ["/img/badge.jpg"]
