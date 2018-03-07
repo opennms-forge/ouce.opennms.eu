@@ -23,7 +23,7 @@ params:
   Sections:
     - about
     # - location
-    # - speakers
+    - speakers
     # - schedule
     # - partners
     - sponsors
@@ -65,14 +65,14 @@ params:
     - name: "Check-in / Breakfast"
       time: "9h00"
 
-    - name: "Speaker Name"
-      photo: "/img/speaker.jpg"
-      bio: "Speaker Bio"
-      company: "Speaker Company"
+    - name: "Ronny Trommer"
+      photo: "/img/ronny-trommer.jpg"
+      bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
+      company: "The OpenNMS Group, Inc."
       link:
         href: "https://www.opennms.org"
-        text: "This is my link text"
+        text: "OpenNMS, OGP"
       presentation:
-        title: "Presentation Title"
-        description: "Presentation Description"
-        time: "10h00"
+        title: "Docker: Hello Ground!"
+        description: "The Whale and the Bowl of Petunias"
+        time: "TBD"
