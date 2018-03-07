@@ -25,7 +25,8 @@ params:
     # - location
     # - speakers
     # - schedule
-    - partners
+    # - partners
+    - sponsors
     #- contact
 
   # Titles which you can translate to other languages
@@ -51,7 +52,7 @@ params:
   #     url: "http://gohugo.io"
 
   # List of Partners
-  Partners:
+  Sponsors:
     - name: "The OpenNMS Group"
       logo: "/img/opennms-logo.png"
       url: "https://www.opennms.com"
