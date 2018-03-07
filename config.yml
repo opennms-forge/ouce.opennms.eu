@@ -30,7 +30,7 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    about: "Welcome to our conference"
+    about: "Welcome"
     location: "Location"
     speakers: "Speakers"
     schedule: "Schedule"
