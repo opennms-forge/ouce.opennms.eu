@@ -30,7 +30,7 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    about: "About"
+    about: "Welcome to our conference"
     location: "Location"
     speakers: "Speakers"
     schedule: "Schedule"
@@ -41,8 +41,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Register now!"
-    link: "http://register.ouce.opennms.eu"
+    text: "Call for Paper"
+    link: "/cfp/2018"
 
   # List of Sponsors
   # Sponsors:
