@@ -51,7 +51,7 @@ params:
   #     logo: "/img/hugo.png"
   #     url: "http://gohugo.io"
 
-  # List of Partners
+  # List of Sponsors
   Sponsors:
     - name: "The OpenNMS Group"
       logo: "/img/opennms-logo.png"
