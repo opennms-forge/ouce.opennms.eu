@@ -64,9 +64,41 @@ params:
   Schedule:
     - name: "Check-in / Breakfast"
       time: "9h00"
-
+    - name: "Jeff Gehlbach"
+      photo: "/img/jeff-gehlbach.jpg"
+      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "Supportability Roundtable"
+        description: ""
+        time: "TBD"
+    - name: "Jeff Gehlbach"
+      photo: "/img/jeff-gehlbach.jpg"
+      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "Single and Reduced Sign-On in OpenNMS"
+        description: "This talk is about using advanced Sign-In technologies in OpenNMS"
+        time: "TBD"
+    - name: "Jeff Gehlbach"
+      photo: "/img/jeff-gehlbach.jpg"
+      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: " The HOE Stack: Helm + OpenNMS + Elasticsearch"
+        description: "How to run OpenNMS with Helm in Grafana and Elasticsearch"
+        time: "TBD"
     - name: "Ronny Trommer"
-      photo: "/img/ronny-trommer.jpg"
+      photo: "/img/ronny-trommer.png"
       bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
       company: "The OpenNMS Group, Inc."
       link:
