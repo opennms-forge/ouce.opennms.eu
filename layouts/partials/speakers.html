@@ -1,7 +1,7 @@
 <h2 class="section-title">{{ .titles.speakers }}</h2>
 
 <ul class="speakers-list">
-{{ range $speaker := (where .schedule "presentation" "ne" nil) }}
+{{ range $speaker := .speakers }}
   <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
     {{ with .photo }}
       <span class="speaker-photo">
@@ -9,19 +9,34 @@
       </span>
     {{ end }}
 
-    <h3 class="speech-title">
-      {{ with .presentation.time }}
-      <span class="speech-time">{{ . }}</span>
-      {{ end }}
-      <span>{{ .presentation.title }}</span>
-    </h3>
-
     <h3 class="speakers-name">{{ .name }}
       {{ with .link }}
       <a href="{{ .href }}" target="_blank" title="{{ .text }}"> {{ .text }} </a>
       {{ end }}
     </h3>
-    <p class="speakers-bio">{{ .bio }}</p>
+    <p class="speakers-bio">{{ .bio }}<br/>
+    {{ with .twitter }}
+      <a href="{{ . }}" class="social-media-icon" target="_blank" title="Twitter link">
+        <i class="fab fa-twitter-square"></i>
+      </a>
+    {{ end }}
+    {{ with .github }}
+    <a href="{{ . }}" class="social-media-icon" target="_blank" title="GitHub link">
+      <i class="fab fa-github-square"></i>
+    </a>
+    {{ end }}
+    {{ with .linkedin }}
+    <a href="{{ . }}" class="social-media-icon" target="_blank" title="Linkedin link">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    {{ end }}
+    {{ with .homepage }}
+    <a href="{{ . }}" class="social-media-icon" target="_blank" title="Homepage link">
+      <i class="fas fa-home"></i>
+    </a>
+    {{ end }}
+
+    </p>
   </li>
 {{ end }}
 </ul>
