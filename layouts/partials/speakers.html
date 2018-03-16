@@ -35,7 +35,16 @@
       <i class="fas fa-home"></i>
     </a>
     {{ end }}
-
+    {{ with .keybase }}
+    <a href="{{ . }}" class="social-media-icon" target="_blank" title="Keybase.io link">
+      <i class="fas fa-key"></i>
+    </a>
+    {{ end }}
+    {{ with .gplus }}
+    <a href="{{ . }}" class="social-media-icon" target="_blank" title="Google Plus link">
+      <i class="fab fa-google-plus-g"></i>
+    </a>
+    {{ end }}
     </p>
   </li>
 {{ end }}
