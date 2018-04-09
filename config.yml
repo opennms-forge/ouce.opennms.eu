@@ -9,20 +9,20 @@ params:
   # Conference info
   Name: "OUCE 2018"
   Description: "OpenNMS User Conference Europe"
-  Date: "Oktober"
+  Date: "September 20 - 21, 2018"
   # Price: "Only $100" # If your event is free, just comment this line
-  Venue: "To be defined"
-  Address: "To be defined"
+  Venue: "Rilano Hotel"
+  Address: "Rilano Hotel München, Domagkstr. 26"
   City:  "Munich"
   State: "Bavaria"
   Images: ["/img/badge.jpg"]
-  GoogleMapsKey: "my-secret-maps-key"
+  GoogleMapsKey: "AIzaSyBdXjIuucpDzKskIeAoOa9QtPz6XH9sJBo"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    # - location
+    - location
     - speakers
     - schedule
     # - partners
