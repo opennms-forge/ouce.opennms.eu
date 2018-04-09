@@ -46,12 +46,6 @@ params:
     link: "/cfp/2018"
 
   # List of Sponsors
-  # Sponsors:
-  #   - name: "Hugo"
-  #     logo: "/img/hugo.png"
-  #     url: "http://gohugo.io"
-
-  # List of Sponsors
   Sponsors:
     - name: "The OpenNMS Group"
       logo: "/img/opennms-logo.png"
