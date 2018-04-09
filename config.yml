@@ -74,6 +74,16 @@ params:
       homepage: "https://jeffg.org/"
       gplus: "https://plus.google.com/u/0/+JeffGehlbach"
       keybase: "https://keybase.io/jeffg"
+    - name: "Jesse White"
+      photo: /img/jesse-white.jpg
+      bio: CTO of The OpenNMS Group, Inc.
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      github: "https://github.com/j-white"
+      linkedin: "https://www.linkedin.com/in/jwhite1/"
+      homepage: "https://www.jessewhite.ca"
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
       bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
@@ -89,6 +99,17 @@ params:
 
   # The entire schedule
   Schedule:
+    - name: "Jesse White"
+      photo: /img/jesse-white.jpg
+      bio: CTO of The OpenNMS Group, Inc.
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "OpenNMS Integration Patterns"
+        description: "Interested in forwarding events to Kafka? Sending alarms via AQMP? Transmitting performance data via Protobuf over TCP? We'll look at these integration points, and some of the other options for integrating OpenNMS with other tools in your infrastructure."
+        time: "TBD"
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.png"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
