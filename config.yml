@@ -152,5 +152,5 @@ params:
         text: "OpenNMS, OGP"
       presentation:
         title: "Docker: Hello Ground!"
-        description: "The Whale and the Bowl of Petunias"
+        description: "The Whale and the Bowl of Petunias. While maintaining the Horizon and Minion Docker Images on DockerHub, I want to share some experience what happens if you run a legacy application like OpenNMS Horizon and Minions in a container environment like Docker."
         time: "TBD"
