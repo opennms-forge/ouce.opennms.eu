@@ -80,6 +80,7 @@ params:
       homepage: "https://jeffg.org/"
       gplus: "https://plus.google.com/u/0/+JeffGehlbach"
       keybase: "https://keybase.io/jeffg"
+
     - name: "Jesse White"
       photo: /img/jesse-white.jpg
       bio: CTO of The OpenNMS Group, Inc.
@@ -90,6 +91,37 @@ params:
       github: "https://github.com/j-white"
       linkedin: "https://www.linkedin.com/in/jwhite1/"
       homepage: "https://www.jessewhite.ca"
+
+    - name: "Jessica Hustace"
+      photo: "/img/jessica-hustace.jpg"
+      bio: Graphic Designer + Accounts at The OpenNMS Group, Inc.
+      company: "The OpenNMS Group, Inc."
+      link:
+          href: "https://www.opennms.org"
+          text: "OpenNMS"
+      linkedin: "https://www.linkedin.com/in/jessica-hustace-2ab15429/"
+
+    - name: "Craig Gallen"
+      photo: /img/craig-gallen.jpg
+      bio: Craig Gallen is a committer to OpenNMS, supports OpenNMS users in UK and Ireland and is an Associate Lecturer at Solent University in the UK.
+      company: "entimoss limited (OpenNMS UK)"
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      github: "https://github.com/gallenc"
+      linkedin: "https://www.linkedin.com/in/craig-gallen-a4332a/"
+      homepage: "http://entimoss.myzen.co.uk"
+
+    - name: "Benjamin Reed"
+      photo: "/img/benjamin-reed.jpg"
+      bio: CIO of The OpenNMS Group, Inc. Software Developer
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      github: "https://github.com/RangerRick"
+      linkedin: "https://www.linkedin.com/in/rangerrick/"
+
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
       bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
@@ -116,6 +148,7 @@ params:
         title: "Keynote"
         description: "OpenNMS now and the future."
         time: "TBD"
+
     - name: "Jesse White"
       photo: /img/jesse-white.jpg
       bio: CTO of The OpenNMS Group, Inc.
@@ -127,6 +160,7 @@ params:
         title: "OpenNMS Integration Patterns"
         description: "Interested in forwarding events to Kafka? Sending alarms via AQMP? Transmitting performance data via Protobuf over TCP? We'll look at these integration points, and some of the other options for integrating OpenNMS with other tools in your infrastructure."
         time: "TBD"
+
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.png"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
@@ -138,6 +172,31 @@ params:
         title: "Supportability Roundtable"
         description: ""
         time: "TBD"
+
+    - name: "Benjamin Reed"
+      photo: "/img/benjamin-reed.jpg"
+      bio: "CIO at The OpenNMS Group, Inc. - Software Developer"
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "Modern JavaScript in OpenNMS"
+        description: "Working with JavaScript in OpenNMS Horizon 22 and beyond. I will discuss the recent work I did to refactor and modernize the OpenNMS JavaScript codebase, as well as how to integrate new JavaScript code into OpenNMS."
+        time: "TBD"
+
+    - name: "Craig Gallen"
+      photo: /img/craig-gallen.jpg
+      bio: Solutions Consultant
+      company: "entimoss limited (OpenNMS UK)"
+      link:
+        href: "http://entimoss.myzen.co.uk"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "OpenNMS and MQTT IoT for Pollution Monitoring"
+        description: "This talk will discuss an MQTT plugin which allows OpenNMS to receive MQTT Performance and Event messages from Raspberry Pi devices."
+        time: "TBD"
+
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.png"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
@@ -149,6 +208,19 @@ params:
         title: "Single and Reduced Sign-On in OpenNMS"
         description: "This talk is about using advanced Sign-In technologies in OpenNMS"
         time: "TBD"
+
+    - name: "Jessica Hustace"
+      photo: "/img/jessica-hustace.jpg"
+      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      company: "The OpenNMS Group, Inc."
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "OpenNMS Community Roundtable"
+        description: "Reflection upon current and recent community activities followed by roundtable of suggestions, sharing stories, and questions. What has the OpenNMS community been up to? We've been busy going to lots of conferences, eating poutine, drinking mate, and solving problems. Learn about the various places one can engage with the OpenNMS community online (in the tubes) or in person (in the meats). What do those terms mean? Where did they come from? Find out! Meet some of our more active community members and reflect on some of the fun memories we've made together in the last year! Want to join in the fun but are feeling unsure about where to begin? Feel free to ask here or submit a question anonymously. Also, please bring suggestions and constructive criticism regarding our community organization!"
+        time: "TBD"
+
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.png"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
@@ -157,9 +229,10 @@ params:
         href: "https://www.opennms.org"
         text: "OpenNMS, OGP"
       presentation:
-        title: " The HOE Stack: Helm + OpenNMS + Elasticsearch"
+        title: "The HOE Stack: Helm + OpenNMS + Elasticsearch"
         description: "How to run OpenNMS with Helm in Grafana and Elasticsearch"
         time: "TBD"
+
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
       bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
