@@ -67,6 +67,7 @@ params:
       linkedin: "https://www.linkedin.com/in/tarusbalog/"
       homepage: "https://www.adventuresinoss.com"
       gplus: "https://plus.google.com/+TarusBALOG"
+
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.jpg"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
@@ -121,6 +122,9 @@ params:
         text: "OpenNMS, OGP"
       github: "https://github.com/RangerRick"
       linkedin: "https://www.linkedin.com/in/rangerrick/"
+      twitter: https://twitter.com/rangerrick
+      keybase: https://keybase.io/rangerrick
+      gplus: https://plus.google.com/u/0/+BenjaminReed
 
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
