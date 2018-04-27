@@ -68,7 +68,7 @@ params:
       homepage: "https://www.adventuresinoss.com"
       gplus: "https://plus.google.com/+TarusBALOG"
     - name: "Jeff Gehlbach"
-      photo: "/img/jeff-gehlbach.png"
+      photo: "/img/jeff-gehlbach.jpg"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
       company: "The OpenNMS Group, Inc."
       link:
@@ -162,7 +162,7 @@ params:
         time: "TBD"
 
     - name: "Jeff Gehlbach"
-      photo: "/img/jeff-gehlbach.png"
+      photo: "/img/jeff-gehlbach.jpg"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
       company: "The OpenNMS Group, Inc."
       link:
@@ -198,7 +198,7 @@ params:
         time: "TBD"
 
     - name: "Jeff Gehlbach"
-      photo: "/img/jeff-gehlbach.png"
+      photo: "/img/jeff-gehlbach.jpg"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
       company: "The OpenNMS Group, Inc."
       link:
@@ -222,7 +222,7 @@ params:
         time: "TBD"
 
     - name: "Jeff Gehlbach"
-      photo: "/img/jeff-gehlbach.png"
+      photo: "/img/jeff-gehlbach.jpg"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
       company: "The OpenNMS Group, Inc."
       link:
