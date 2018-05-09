@@ -22,6 +22,7 @@ params:
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    - tickets
     - location
     - speakers
     - schedule
@@ -35,6 +36,7 @@ params:
     location: "Location"
     speakers: "Speakers"
     schedule: "Schedule"
+    tickets: "Tickets"
     sponsors: "Sponsors"
     partners: "Partners"
     contact: "Contact"
@@ -125,6 +127,22 @@ params:
       twitter: https://twitter.com/rangerrick
       keybase: https://keybase.io/rangerrick
       gplus: https://plus.google.com/u/0/+BenjaminReed
+
+#    - name: "Patrick Kremser"
+#      photo: "/img/patrick-kremser.jpg"
+#      bio: NETHINKS GmbH
+#      company: "NETHINKS GmbH"
+#      link:
+#        href: "https://www.nethinks.com"
+#        text: ""
+
+#    - name: "Mark Heumüller"
+#      photo: "/img/mark-heumueller.jpg"
+#      bio: NETHINKS GmbH
+#      company: "NETHINKS GmbH"
+#      link:
+#        href: "https://www.nethinks.com"
+#        text: ""
 
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
