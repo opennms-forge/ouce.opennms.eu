@@ -900,3 +900,8 @@ nav {
     display: none;
   }
 }
+
+.address {
+  font-family: monospace;
+  font-size: 2em;
+}
