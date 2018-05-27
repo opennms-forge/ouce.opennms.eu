@@ -2,8 +2,27 @@ baseurl: "https://ouce.opennms.eu/"
 title: "OUCE 2018"
 canonifyurls: true
 theme: "hugo-conference"
+GoogleAnalytics: "UA-80485373-2"
 
-# GoogleAnalytics: "UA-80485373-2"
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: true
+  speakerDeck:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: false
+    privacyEnhanced: true
 
 params:
   # Conference info
