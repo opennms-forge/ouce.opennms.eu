@@ -165,7 +165,7 @@ params:
         text: "NETHINKS, GmbH"
 
     - name: "David Smith"
-      photo: ""
+      photo: "/img/david-smith.jpg"
       bio: "Software Developer at The OpenNMS Group, Inc."
       company: "The OpenNMS Group, Inc."
       link:
@@ -247,7 +247,7 @@ params:
         time: "Thursday, 3:15 PM - 4:15 PM"
 
     - name: "David Smith"
-      photo: ""
+      photo: "/img/david-smith.jpg"
       bio: "Software Developer at The OpenNMS Group, Inc."
       company: "The OpenNMS Group, Inc."
       link:
