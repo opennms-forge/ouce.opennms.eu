@@ -258,15 +258,6 @@ params:
         description: "An overview of the upcoming Alarm Correlation feature of OpenNMS. Alarm Correlation provides automated grouping of related alarms. This presentation will cover an overview of the new feature and a dive into the technical implementation and the UI interface."
         time: "Thursday, 4:30 PM - 5:30 PM"
 
-    - name: "Antonio Russo"
-      photo: "/img/antonio-russo.jpg"
-      bio: "Involved in OpenNMS since 2004 it is the author of SVG Maps, linkd and enhanced linkd. Since July ’98: he has worked as independent consultant in the field of computer systems, networking and IT security. Among the customers: Presidency of the Italian Republic, Italian Parliament, Italian Ministry of Foreign Affairs, INA, ENAV, TIM, Wind, Edisontel, Blu, Link Campus University of Malta, AVIS, Infostrada, Alcatel, Ericsson, Daimler Benz, Infotel Italia, Dimension Data, Inpdap, Enterprise Digital Architects. He has also taught courses on various IT-related subjects."
-      company: "ARS INFORMATICA"
-      presentation:
-          title: "Topologies in OpenNMS"
-          description: "OpenNMS improved model for building and displaying topologies. Last work on Enlinkd has been done with anhancing the topology model in mind. How to put all together. Starting with the OpenNMS enlinkd daemon service description and capability we show how it is integrated in the gui of OpenNMS inside a new Object Model for network. The Reference model is RFC 8345 A YANG Data Model for Network Topologies. This is a long term theme discussed in OpenNMS User Conference and finally we can get aware of a lot of problems related to network topologies and the way they must be displayed."
-          time: "Thursday, 2:00 PM - 3:00 PM"
-
     - name: "Jesse White"
       photo: /img/jesse-white.jpg
       bio: CTO of The OpenNMS Group, Inc.
@@ -326,3 +317,12 @@ params:
         title: Grafana, Helm and automatically generated and maintained dashboards.
         description: Up till now we had no option for our customers to see their network workload unless we would create and maintain the Grafana dashboards manually for each customer. I'm gonna show how our solution works with the use of yourCMDB, Grafana and the OpenNMS Helm plugin and how you could use it to automatically generate dashboards/panels for other performance data from OpenNMS without the need to maintain them manually in Grafana if you are already maintaining the data in a CMDB.
         time: "Friday, 3:15 PM - 4:15 PM"
+
+    - name: "Antonio Russo"
+      photo: "/img/antonio-russo.jpg"
+      bio: "Involved in OpenNMS since 2004 it is the author of SVG Maps, linkd and enhanced linkd. Since July ’98: he has worked as independent consultant in the field of computer systems, networking and IT security. Among the customers: Presidency of the Italian Republic, Italian Parliament, Italian Ministry of Foreign Affairs, INA, ENAV, TIM, Wind, Edisontel, Blu, Link Campus University of Malta, AVIS, Infostrada, Alcatel, Ericsson, Daimler Benz, Infotel Italia, Dimension Data, Inpdap, Enterprise Digital Architects. He has also taught courses on various IT-related subjects."
+      company: "ARS INFORMATICA"
+      presentation:
+          title: "Topologies in OpenNMS"
+          description: "OpenNMS improved model for building and displaying topologies. Last work on Enlinkd has been done with anhancing the topology model in mind. How to put all together. Starting with the OpenNMS enlinkd daemon service description and capability we show how it is integrated in the gui of OpenNMS inside a new Object Model for network. The Reference model is RFC 8345 A YANG Data Model for Network Topologies. This is a long term theme discussed in OpenNMS User Conference and finally we can get aware of a lot of problems related to network topologies and the way they must be displayed."
+          time: "Friday, 4:30 PM - 5:30 PM"
