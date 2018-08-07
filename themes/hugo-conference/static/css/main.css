@@ -448,6 +448,7 @@ nav {
 }
 .schedule-tbl .schedule-time {
   text-align: center;
+  width: 140px;
 }
 .schedule-slot {
   width: 250px;
