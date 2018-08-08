@@ -380,7 +380,7 @@ params:
         text: "OpenNMS, OGP"
       presentation:
         title: "Supportability Roundtable"
-        description: ""
+        description: "You're invited to take part in an open exchange of ideas about the experience of supporting OpenNMS, and ways to improve that experience. The OpenNMS Group's suport and engineering organizations think quite a lot about this subject, and we will share some of the recent and ongoing efforts undertaken. We know that our user community thinks about it too, and has perspective that is impossible for us, so please bring your best ideas!"
         time: "2:00 PM - 3:00 PM"
 
     - name: ""
