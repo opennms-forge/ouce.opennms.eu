@@ -219,16 +219,16 @@ params:
         description: ""
         time: "10:30 AM - 10:45 AM"
         
-    - name: "Jeff Gehlbach"
-      photo: "/img/jeff-gehlbach.jpg"
-      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
-      text: "The OpenNMS Group, Inc., USA"
+    - name: "Uwe Bergmann"
+      photo: "/img/uwe-bergmann.jpg"
+      bio: "Uwe Bergmann is owner and CEO of NETHINKS GmbH since 2003"
+      text: "NETHINKS GmbH"
       link:
-        href: "https://www.opennms.org"
-        text: "OpenNMS, OGP"
+        href: "https://www.nethinks.com"
+        text: "NETHINKS GmbH"
       presentation:
-        title: "Single and Reduced Sign-On in OpenNMS"
-        description: "This talk is about using advanced Sign-In technologies in OpenNMS"
+        title: "Zukunft der IT"
+        description: ""
         time: "10:45 AM - 11:45 AM"
 
     - name: ""
@@ -236,7 +236,7 @@ params:
       bio: ""
       text: ""
       presentation:
-        title: "Coffee Break"
+        title: "Break"
         description: ""
         time: " 11:45 AM - 12:00 PM"
 
@@ -299,7 +299,7 @@ params:
       bio: ""
       text: ""
       presentation:
-        title: "Coffee Break"
+        title: "Break"
         description: ""
         time: "4:15 PM - 4:30 PM"
 
@@ -355,7 +355,7 @@ params:
       bio: ""
       text: ""
       presentation:
-        title: "Coffee Break"
+        title: "Break"
         description: ""
         time: "11:45 AM - 12:00 PM"
 
@@ -418,7 +418,7 @@ params:
       bio: ""
       text: ""
       presentation:
-        title: "Coffee Break"
+        title: "Break"
         description: ""
         time: "4:15 PM - 4:30 PM"
 
