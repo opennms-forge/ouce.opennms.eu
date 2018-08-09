@@ -105,6 +105,15 @@ params:
       gplus: "https://plus.google.com/u/0/+JeffGehlbach"
       keybase: "https://keybase.io/jeffg"
 
+    - name: "Uwe Bergmann"
+      photo: /img/uwe-bergmann.jpg
+      bio: CEO of NETHINKS GmbH.
+      company: "NETHINKS GmbH"
+      link:
+        href: "https://www.nethinks.com"
+        text: "NETHINKS, GmbH"
+      linkedin: "https://www.linkedin.com/in/uwebergmann/"
+
     - name: "Jesse White"
       photo: /img/jesse-white.jpg
       bio: CTO of The OpenNMS Group, Inc. and elected memember of the Order of the Green Polo.
