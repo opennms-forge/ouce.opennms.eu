@@ -1,0 +1,38 @@
+== Conference Page for OUCE 2018
+
+This is the website for the conference OUCE 2018 and is automatically published to https://ouce.opennms.eu.
+The website is built with link:https://gohugo.io[Hugo], a static website generator written in Golang.
+
+=== Publishing
+
+To publish the website, we use link:https://www.netlify.com[Netlify] which is attached to this repository.
+The master branch is the source for the content what you see on https://ouce.opennms.eu.
+As soon you commit a change to the master branch, Netlify will trigger a Hugo build, generates the static content and publishes it.
+
+We have created an ouce.opennms.eu alias for the Netlify provided page ouce-opennms-eu.netlify.com.
+
+=== Change Content
+
+The schedule and content is managed in the `config.yml` file in the root of the directory.
+Images for speeakers are in the `static/img` directory.
+
+=== Run locally in Preview
+
+To get a local copy running of the website you need the following components:
+
+* Hugo framework
+* Git
+
+**Step 1:** Install Hugo on your system from https://gohugo.io/getting-started/quick-start/
+
+**Step 2:** Checkout the repository from GitHub
+
+[source, bash]
+----
+https://github.com/opennms-forge/ouce.opennms.eu.git
+cd ouce.opennms.eu
+hugo server
+----
+
+**Step 3:** Access the website with http://localhost:1313
+
