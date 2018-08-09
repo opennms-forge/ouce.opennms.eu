@@ -11,6 +11,18 @@ As soon you commit a change to the master branch, Netlify will trigger a Hugo bu
 
 We have created an ouce.opennms.eu alias for the Netlify provided page ouce-opennms-eu.netlify.com.
 
+[source]
+----
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1452
+;; QUESTION SECTION:
+;ouce.opennms.eu.		IN	A
+
+;; ANSWER SECTION:
+ouce.opennms.eu.	1679	IN	CNAME	ouce-opennms-eu.netlify.com.
+ouce-opennms-eu.netlify.com. 20	IN	A	178.128.202.48
+----
+
 === Change Content
 
 The schedule and content is managed in the `config.yml` file in the root of the directory.
