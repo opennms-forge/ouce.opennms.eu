@@ -48,3 +48,5 @@ hugo server
 
 **Step 3:** Access the website with http://localhost:1313
 
+IMPORTANT: Broken Google Map in local preview is normal.
+           The Google API Key for the map is tight to requests for the domain https://ouce.opennms.eu and is not shown on the local preview.
