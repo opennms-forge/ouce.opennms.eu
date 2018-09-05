@@ -227,8 +227,8 @@ params:
         href: "https://www.nethinks.com"
         text: "NETHINKS GmbH"
       presentation:
-        title: "Zukunft der IT"
-        description: ""
+        title: "Actual changes in IT-Management"
+        description: "Many companies are using IT-services in different ways. They are using cloud services, they are using own centralized IT-Infrastructures and sometimes even local servers. A lot of them also using a mixture of it. This implies an special way of administration and the monitoring of devices, services and processes. In this presentation I will show how CIOs may change their focus in managing and maintaining services wherever and whoever they are located and provided."
         time: "10:45 AM - 11:45 AM"
 
     - name: ""
