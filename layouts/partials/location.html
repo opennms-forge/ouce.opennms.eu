@@ -1,32 +1,15 @@
 <h2 class="section-title">{{ .titles.location }}</h2>
 
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">{{ .address }}. </span>
+  <span itemprop="streetAddress">{{ .address }}</span>,
   <span itemprop="addressLocality">{{ .city }}</span>,
-  <span itemprop="addressRegion"> {{ .state }}</span>
+  <span itemprop="addressRegion"> {{ .state }}</span>,
+  <span><a href="https://www.rilano-hotel-muenchen.de/en/" target="_blank">https://www.rilano-hotel-muenchen.de/en/</a></span>
 </p>
 
 <div id="map-canvas" class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}"></div>
 <br/>
 <p itemprop="description">
-  We have a contingent of rooms at the Rilano Hotel in Munich from the <b>19th September 2018</b> until <b>21st September 2018</b>. If you want to stay in the same hotel as the conference, use the keyword <b>OUCE 2018</b> for your booking and you will get rooms from our reserved contingent. Accommodation is not included in the conference ticket.
-</p>
-<p itemprop="description">
-    Website: <a href="https://www.rilano-hotel-muenchen.de/en/" target="_blank">Rilano Hotel München</a><br/>
-    Keyword: OUCE 2018
+  The room contingent is sold out.
 </p>
 
-<p itemprop="description">
-  Contingent blocked:<br/>
-  Rooms: 90 single rooms<br/>
-  Comfort Single Room Price per night with breakfast: 179,-€<br/>
-  Standard Single Room Price per night with breakfast: 164,-€<br/>
-  Standard Single Room Price per night without breakfast: 145,-€
-</p>
-
-<p itemprop="description">
-  Contingent expiration:<br/>
-  25th July 2018, 50%<br/>
-  09th August 2018, 25%<br/>
-  22snd August 2018 all expired
-</p>
