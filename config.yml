@@ -209,15 +209,6 @@ params:
         title: "Keynote"
         description: "OpenNMS now and the future."
         time: "9:30 AM - 10:30 AM"
-
-    - name: ""
-      photo: ""
-      bio: ""
-      text: ""
-      presentation:
-        title: "Coffee Break"
-        description: ""
-        time: "10:30 AM - 10:45 AM"
         
     - name: "Uwe Bergmann"
       photo: "/img/uwe-bergmann.jpg"
@@ -229,16 +220,16 @@ params:
       presentation:
         title: "Actual changes in IT-Management"
         description: "Many companies are using IT-services in different ways. They are using cloud services, they are using own centralized IT-Infrastructures and sometimes even local servers. A lot of them also using a mixture of it. This implies an special way of administration and the monitoring of devices, services and processes. In this presentation I will show how CIOs may change their focus in managing and maintaining services wherever and whoever they are located and provided."
-        time: "10:45 AM - 11:45 AM"
+        time: "10:30 AM - 11:30 AM"
 
     - name: ""
-      photo: ""
+      photo: "/img/coffee-icon.png"
       bio: ""
       text: ""
       presentation:
-        title: "Break"
+        title: "Coffee Break"
         description: ""
-        time: " 11:45 AM - 12:00 PM"
+        time: " 11:30 AM - 11:45 PM"
 
     - name: "Craig Gallen"
       photo: /img/craig-gallen.jpg
@@ -250,58 +241,25 @@ params:
       presentation:
         title: "OpenNMS and MQTT IoT for Pollution Monitoring"
         description: "This talk will discuss an MQTT plugin which allows OpenNMS to receive MQTT Performance and Event messages from Raspberry Pi devices."
-        time: "12:00 PM - 1:00 PM"
+        time: "11:45 PM - 12:45 PM"
 
     - name: ""
-      photo: ""
+      photo: "/img/pizza-icon.png"
       bio: ""
       text: ""
       presentation:
         title: "Lunch Break"
         description: ""
-        time: "1:00 PM - 2:00 PM"
+        time: "12:45 PM - 13:45 PM"
 
-    - name: "Jessica Hustace"
-      photo: "/img/jessica-hustace.jpg"
-      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
-      text: "The OpenNMS Group, Inc., USA"
-      link:
-        href: "https://www.opennms.com"
-        text: "The OpenNMS Group, Inc."
+    - name: "Antonio Russo"
+      photo: "/img/antonio-russo.jpg"
+      bio: "Involved in OpenNMS since 2004 it is the author of SVG Maps, linkd and enhanced linkd. Since July ’98: he has worked as independent consultant in the field of computer systems, networking and IT security. Among the customers: Presidency of the Italian Republic, Italian Parliament, Italian Ministry of Foreign Affairs, INA, ENAV, TIM, Wind, Edisontel, Blu, Link Campus University of Malta, AVIS, Infostrada, Alcatel, Ericsson, Daimler Benz, Infotel Italia, Dimension Data, Inpdap, Enterprise Digital Architects. He has also taught courses on various IT-related subjects."
+      company: "ARS INFORMATICA"
       presentation:
-        title: "OpenNMS Community Roundtable"
-        description: "Reflection upon current and recent community activities followed by roundtable of suggestions, sharing stories, and questions. What has the OpenNMS community been up to? We've been busy going to lots of conferences, eating poutine, drinking mate, and solving problems. Learn about the various places one can engage with the OpenNMS community online (in the tubes) or in person (in the meats). What do those terms mean? Where did they come from? Find out! Meet some of our more active community members and reflect on some of the fun memories we've made together in the last year! Want to join in the fun but are feeling unsure about where to begin? Feel free to ask here or submit a question anonymously. Also, please bring suggestions and constructive criticism regarding our community organization!"
-        time: "2:00 PM - 3:00 PM"
-
-    - name: ""
-      photo: ""
-      bio: ""
-      text: ""
-      presentation:
-        title: "Coffee Break"
-        description: ""
-        time: "3:00 PM - 3:15 PM"
-
-    - name: "Ronny Trommer"
-      photo: "/img/ronny-trommer.png"
-      bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
-      text: "The OpenNMS Group, Inc., Europe"
-      link:
-        href: "https://www.opennms.org"
-        text: "OpenNMS, OGP"
-      presentation:
-        title: "Docker: Hello Ground!"
-        description: "The Whale and the Bowl of Petunias. While maintaining the Horizon and Minion Docker Images on DockerHub, I want to share some experience what happens if you run a legacy application like OpenNMS Horizon and Minions in a container environment like Docker."
-        time: "3:15 PM - 4:15 PM"
-
-    - name: ""
-      photo: ""
-      bio: ""
-      text: ""
-      presentation:
-        title: "Break"
-        description: ""
-        time: "4:15 PM - 4:30 PM"
+        title: "Topologies in OpenNMS"
+        description: "OpenNMS improved model for building and displaying topologies. Last work on Enlinkd has been done with anhancing the topology model in mind. How to put all together. Starting with the OpenNMS enlinkd daemon service description and capability we show how it is integrated in the gui of OpenNMS inside a new Object Model for network. The Reference model is RFC 8345 A YANG Data Model for Network Topologies. This is a long term theme discussed in OpenNMS User Conference and finally we can get aware of a lot of problems related to network topologies and the way they must be displayed."
+        time: "13:45 PM - 14:45 PM"
 
     - name: "David Smith"
       photo: "/img/david-smith.jpg"
@@ -313,7 +271,40 @@ params:
       presentation:
         title: "Alarm Correlation"
         description: "An overview of the upcoming Alarm Correlation feature of OpenNMS. Alarm Correlation provides automated grouping of related alarms. This presentation will cover an overview of the new feature and a dive into the technical implementation and the UI interface."
-        time: "4:30 PM - 5:30 PM"
+        time: "14:45 PM - 15:45 PM"
+
+    - name: ""
+      photo: "/img/coffee-icon.png"
+      bio: ""
+      text: ""
+      presentation:
+        title: "Coffee Break"
+        description: ""
+        time: "15:45 PM - 16:00 PM"
+
+    - name: "Ronny Trommer"
+      photo: "/img/ronny-trommer.png"
+      bio: "He has been working for more than 10 years in IT and has been using OpenNMS since 2004. He worked as a scientific assistant at the University of Applied Sciences in Fulda and wrote with his two friends Alexander Finger and Klaus Thielking-Riechert the German book about OpenNMS. He is also an elected member of the Order of the Green Polo since 2010 and was a Google Summer of Code mentor for the OpenNMS project."
+      text: "The OpenNMS Group, Inc., Europe"
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "Docker: Hello Ground!"
+        description: "The Whale and the Bowl of Petunias. While maintaining the Horizon and Minion Docker Images on DockerHub, I want to share some experience what happens if you run a legacy application like OpenNMS Horizon and Minions in a container environment like Docker."
+        time: "16:00 PM - 17:00 PM"
+
+    - name: "Jeff Gehlbach"
+      photo: "/img/jeff-gehlbach.jpg"
+      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      text: "The OpenNMS Group, Inc., USA"
+      link:
+        href: "https://www.opennms.org"
+        text: "OpenNMS, OGP"
+      presentation:
+        title: "Supportability Roundtable"
+        description: "You're invited to take part in an open exchange of ideas about the experience of supporting OpenNMS, and ways to improve that experience. The OpenNMS Group's suport and engineering organizations think quite a lot about this subject, and we will share some of the recent and ongoing efforts undertaken. We know that our user community thinks about it too, and has perspective that is impossible for us, so please bring your best ideas!"
+        time: "17:00 PM - 18:00 PM"
 
   # Schedule for Day 2
   Schedule2:
@@ -329,15 +320,6 @@ params:
         description: "Interested in forwarding events to Kafka? Sending alarms via AQMP? Transmitting performance data via Protobuf over TCP? We'll look at these integration points, and some of the other options for integrating OpenNMS with other tools in your infrastructure."
         time: "9:30 AM - 10:30 AM"
 
-    - name: ""
-      photo: ""
-      bio: ""
-      text: ""
-      presentation:
-        title: "Coffee Break"
-        description: ""
-        time: "10:30 AM - 10:45 AM"
-
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.jpg"
       bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
@@ -348,16 +330,16 @@ params:
       presentation:
         title: "The HOE Stack: Helm + OpenNMS + Elasticsearch"
         description: "How to run OpenNMS with Helm in Grafana and Elasticsearch"
-        time: "10:45 AM - 11:45 AM"
+        time: "10:30 AM - 11:30 AM"
 
     - name: ""
-      photo: ""
+      photo: "/img/coffee-icon.png"
       bio: ""
       text: ""
       presentation:
-        title: "Break"
+        title: "Coffee Break"
         description: ""
-        time: "11:45 AM - 12:00 PM"
+        time: "11:30 AM - 11:45 PM"
 
     - name: "Benjamin Reed"
       photo: "/img/benjamin-reed.jpg"
@@ -369,37 +351,17 @@ params:
       presentation:
         title: "Modern JavaScript in OpenNMS"
         description: "Working with JavaScript in OpenNMS Horizon 22 and beyond. I will discuss the recent work I did to refactor and modernize the OpenNMS JavaScript codebase, as well as how to integrate new JavaScript code into OpenNMS."
-        time: "12:00 PM - 1:00 PM"
+        time: "11:45 PM - 13:45 PM"
 
     - name: ""
-      photo: ""
+      photo: "/img/pizza-icon.png"
       bio: ""
       text: ""
       presentation:
         title: "Lunch Break"
         description: ""
-        time: "1:00 PM - 2:00 PM"
-
-    - name: "Jeff Gehlbach"
-      photo: "/img/jeff-gehlbach.jpg"
-      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
-      text: "The OpenNMS Group, Inc., USA"
-      link:
-        href: "https://www.opennms.org"
-        text: "OpenNMS, OGP"
-      presentation:
-        title: "Supportability Roundtable"
-        description: "You're invited to take part in an open exchange of ideas about the experience of supporting OpenNMS, and ways to improve that experience. The OpenNMS Group's suport and engineering organizations think quite a lot about this subject, and we will share some of the recent and ongoing efforts undertaken. We know that our user community thinks about it too, and has perspective that is impossible for us, so please bring your best ideas!"
+        time: "12:45 PM - 13:45 PM"
         time: "2:00 PM - 3:00 PM"
-
-    - name: ""
-      photo: ""
-      bio: ""
-      text: ""
-      presentation:
-        title: "Coffee Break"
-        description: ""
-        time: "3:00 PM - 3:15 PM"
 
     - name: "Patrick Kremser"
       photo: "/img/patrick-kremser.jpg"
@@ -411,22 +373,16 @@ params:
       presentation:
         title: Grafana, Helm and automatically generated and maintained dashboards.
         description: Up till now we had no option for our customers to see their network workload unless we would create and maintain the Grafana dashboards manually for each customer. I'm gonna show how our solution works with the use of yourCMDB, Grafana and the OpenNMS Helm plugin and how you could use it to automatically generate dashboards/panels for other performance data from OpenNMS without the need to maintain them manually in Grafana if you are already maintaining the data in a CMDB.
-        time: "3:15 PM - 4:15 PM"
+        time: "13:45 PM - 14:45 PM"
 
-    - name: ""
-      photo: ""
-      bio: ""
-      text: ""
+    - name: "Jessica Hustace"
+      photo: "/img/jessica-hustace.jpg"
+      bio: "Jeff has worked with free software since the mid-1990s and has practiced the discipline of large-scale network management since 2000. His current role as Director of Applied Innovation at The OpenNMS Group lets him continue both these pursuits, and even affords him to write the occasional line or two of code."
+      text: "The OpenNMS Group, Inc., USA"
+      link:
+        href: "https://www.opennms.com"
+        text: "The OpenNMS Group, Inc."
       presentation:
-        title: "Break"
-        description: ""
-        time: "4:15 PM - 4:30 PM"
-
-    - name: "Antonio Russo"
-      photo: "/img/antonio-russo.jpg"
-      bio: "Involved in OpenNMS since 2004 it is the author of SVG Maps, linkd and enhanced linkd. Since July ’98: he has worked as independent consultant in the field of computer systems, networking and IT security. Among the customers: Presidency of the Italian Republic, Italian Parliament, Italian Ministry of Foreign Affairs, INA, ENAV, TIM, Wind, Edisontel, Blu, Link Campus University of Malta, AVIS, Infostrada, Alcatel, Ericsson, Daimler Benz, Infotel Italia, Dimension Data, Inpdap, Enterprise Digital Architects. He has also taught courses on various IT-related subjects."
-      company: "ARS INFORMATICA"
-      presentation:
-          title: "Topologies in OpenNMS"
-          description: "OpenNMS improved model for building and displaying topologies. Last work on Enlinkd has been done with anhancing the topology model in mind. How to put all together. Starting with the OpenNMS enlinkd daemon service description and capability we show how it is integrated in the gui of OpenNMS inside a new Object Model for network. The Reference model is RFC 8345 A YANG Data Model for Network Topologies. This is a long term theme discussed in OpenNMS User Conference and finally we can get aware of a lot of problems related to network topologies and the way they must be displayed."
-          time: "4:30 PM - 5:30 PM"
+        title: "OpenNMS Community Roundtable"
+        description: "Reflection upon current and recent community activities followed by roundtable of suggestions, sharing stories, and questions. What has the OpenNMS community been up to? We've been busy going to lots of conferences, eating poutine, drinking mate, and solving problems. Learn about the various places one can engage with the OpenNMS community online (in the tubes) or in person (in the meats). What do those terms mean? Where did they come from? Find out! Meet some of our more active community members and reflect on some of the fun memories we've made together in the last year! Want to join in the fun but are feeling unsure about where to begin? Feel free to ask here or submit a question anonymously. Also, please bring suggestions and constructive criticism regarding our community organization!"
+        time: "14:45 PM - 15:45 PM"
