@@ -361,7 +361,6 @@ params:
         title: "Lunch Break"
         description: ""
         time: "12:45 PM - 13:45 PM"
-        time: "2:00 PM - 3:00 PM"
 
     - name: "Patrick Kremser"
       photo: "/img/patrick-kremser.jpg"
