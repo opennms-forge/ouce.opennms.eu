@@ -351,7 +351,7 @@ params:
       presentation:
         title: "Modern JavaScript in OpenNMS"
         description: "Working with JavaScript in OpenNMS Horizon 22 and beyond. I will discuss the recent work I did to refactor and modernize the OpenNMS JavaScript codebase, as well as how to integrate new JavaScript code into OpenNMS."
-        time: "11:45 PM - 13:45 PM"
+        time: "11:45 PM - 12:45 PM"
 
     - name: ""
       photo: "/img/pizza-icon.png"
