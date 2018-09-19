@@ -78,18 +78,15 @@ params:
       url: "https://www.nethinks.com"
 
   Speakers:
-    - name: "Tarus Balog"
-      photo: "/img/tarus-balog.jpg"
-      bio: "Tarus Balog has been involved in managing communications networks professionally since 1988, and unprofessionally since 1978 when he got his first computer - a TRS-80 from Radio Shack. Having worked as a network management consultant for many years, he was constantly frustrated in the lack of flexibility involved in commercial solutions from such companies as HP and IBM, as well as shocked by their high prices. Looking for a better solution, he turned to open source and joined the OpenNMS project in 2001 and become the principal administrator of the project in 2002. Since then he has managed not only to make a living working with free software, but the OpenNMS Group, the services company behind the project, has thrived. He is an outspoken evangelist for open source software and the communities it inspires."
+    - name: "David Hustace"
+      photo: "/img/david-hustace.jpg"
+      bio: "President, The OpenNMS Group, Inc."
       company: "The OpenNMS Group, Inc."
       link:
         href: "https://www.opennms.com"
         text: "The OpenNMS Group, Inc."
-      twitter: "https://twitter.com/sortova"
-      github:  "https://github.com/Sortova"
-      linkedin: "https://www.linkedin.com/in/tarusbalog/"
-      homepage: "https://www.adventuresinoss.com"
-      gplus: "https://plus.google.com/+TarusBALOG"
+      twitter: "https://twitter.com/dhustace"
+      linkedin: "https://www.linkedin.com/in/davidhustace"
 
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.jpg"
@@ -198,13 +195,13 @@ params:
 
   # Schedule for Day 1
   Schedule1:
-    - name: "Tarus Balog"
-      photo: /img/tarus-balog.jpg
+    - name: "David Hustace"
+      photo: "/img/david-hustace.jpg"
       bio: Founder of The OpenNMS Group, Inc.
       company: "The OpenNMS Group, Inc."
       link:
         href: "https://www.opennms.org"
-        text: "OpenNMS, #1"
+        text: "President, The OpenNMS Group, Inc."
       presentation:
         title: "Keynote"
         description: "OpenNMS now and the future."
