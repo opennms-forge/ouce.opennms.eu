@@ -44,8 +44,8 @@ params:
     # - tickets
     # - location
     - speakers
-    - schedule1
-    - schedule2
+    #- schedule1
+    #- schedule2
     # - partners
     - sponsors
     #- contact
@@ -87,6 +87,8 @@ params:
         text: "The OpenNMS Group, Inc."
       twitter: "https://twitter.com/dhustace"
       linkedin: "https://www.linkedin.com/in/davidhustace"
+      slidethumbnail: David_Hustace-OpenNMS_Now_and_the_Future.jpg
+      slidefile: ouce2018-David_Hustace-OpenNMS_Now_and_the_Future.pdf
 
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.jpg"
@@ -101,6 +103,8 @@ params:
       homepage: "https://jeffg.org/"
       gplus: "https://plus.google.com/u/0/+JeffGehlbach"
       keybase: "https://keybase.io/jeffg"
+      slidethumbnail: Jeff_Gehlbach-The_HOE_Stack.jpg
+      slidefile: ouce2018-Jeff_Gehlbach-The_HOE_Stack.pdf
 
     - name: "Uwe Bergmann"
       photo: /img/uwe-bergmann.jpg
@@ -110,6 +114,8 @@ params:
         href: "https://www.nethinks.com"
         text: "NETHINKS, GmbH"
       linkedin: "https://www.linkedin.com/in/uwebergmann/"
+      slidethumbnail: Uwe_Bergmann-Actual_Changes_in_IT_Management.jpg
+      slidefile: ouce2018-Uwe_Bergmann-Actual_Changes_in_IT_Management.pdf
 
     - name: "Jesse White"
       photo: /img/jesse-white.jpg
@@ -121,6 +127,8 @@ params:
       github: "https://github.com/j-white"
       linkedin: "https://www.linkedin.com/in/jwhite1/"
       homepage: "https://www.jessewhite.ca"
+      slidethumbnail: Jesse_White-OpenNMS_Integration_Patterns.jpg
+      slidefile: ouce2018-Jesse_White-OpenNMS_Integration_Patterns.pdf
 
     - name: "Jessica Hustace"
       photo: "/img/jessica-hustace.jpg"
@@ -130,6 +138,8 @@ params:
         href: "https://www.opennms.com"
         text: "The OpenNMS Group, Inc."
       linkedin: "https://www.linkedin.com/in/jessica-hustace-2ab15429/"
+      slidethumbnail: Jessica_Hustace-OpenNMS_Community_Roundable.jpg
+      slidefile: ouce2018-Jessica_Hustace-OpenNMS_Community_Roundable.pdf
 
     - name: "Craig Gallen"
       photo: /img/craig-gallen.jpg
@@ -141,6 +151,8 @@ params:
       github: "https://github.com/gallenc"
       linkedin: "https://www.linkedin.com/in/craig-gallen-a4332a/"
       homepage: "http://entimoss.myzen.co.uk"
+      slidethumbnail: ""
+      slidefile: ""
 
     - name: "Benjamin Reed"
       photo: "/img/benjamin-reed.jpg"
@@ -154,6 +166,8 @@ params:
       twitter: https://twitter.com/rangerrick
       keybase: https://keybase.io/rangerrick
       gplus: https://plus.google.com/u/0/+BenjaminReed
+      slidethumbnail: "Benjamin_Reed-Modern_JavaScript.jpg"
+      slidefile: "ouce2018-Benjamin_Reed-Modern_JavaScript.pdf"
 
     - name: "Antonio Russo"
       photo: "/img/antonio-russo.jpg"
@@ -163,6 +177,8 @@ params:
         href: "https://www.opennms.org"
         text: "OpenNMS, OGP"
       linkedin: "https://www.linkedin.com/in/antonio-russo-2903463/"
+      slidethumbnail: "Antonio_Russo-OpenNMS_Topologies.jpg"
+      slidefile: "ouce2018-Antonio_Russo-OpenNMS_Topologies.pdf"
 
     - name: "Patrick Kremser"
       photo: "/img/patrick-kremser.jpg"
@@ -171,6 +187,8 @@ params:
       link:
         href: "https://www.nethinks.com"
         text: "NETHINKS, GmbH"
+      slidethumbnail: "Patrick_Kremser-Automatically_Generated_Dashboards.jpg"
+      slidefile: "ouce2018-Patrick_Kremser-Automatically_Generated_Dashboards.pdf"
 
     - name: "David Smith"
       photo: "/img/david-smith.jpg"
@@ -179,6 +197,8 @@ params:
       link:
         href: "https://www.opennms.com"
         text: "The OpenNMS Group, Inc."
+      slidethumbnail: "David_Smith-Alarm_Correlation.jpg"
+      slidefile: "ouce2018-David_Smith-Alarm_Correlation.pdf"
 
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
@@ -192,6 +212,8 @@ params:
       linkedin: "https://www.linkedin.com/in/ronnytrommer/"
       homepage: "https://blog.no42.org"
       gplus: "https://plus.google.com/102627149457811467262"
+      slidethumbnail: "Ronny_Trommer-Docker_Hello_Ground.jpg"
+      slidefile: "ouce2018-Ronny_Trommer-Docker_Hello_Ground.pdf"
 
   # Schedule for Day 1
   Schedule1:
