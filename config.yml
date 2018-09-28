@@ -151,8 +151,8 @@ params:
       github: "https://github.com/gallenc"
       linkedin: "https://www.linkedin.com/in/craig-gallen-a4332a/"
       homepage: "http://entimoss.myzen.co.uk"
-      slidethumbnail: ""
-      slidefile: ""
+      slidethumbnail: "Craig_Gallen-IoT_and_OpenNMS.jpg"
+      slidefile: "ouce2018-Craig_Gallen-IoT_and_OpenNMS.pdf"
 
     - name: "Benjamin Reed"
       photo: "/img/benjamin-reed.jpg"
