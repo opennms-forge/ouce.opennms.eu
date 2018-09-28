@@ -55,11 +55,11 @@ params:
     about: "Thank You!"
     # location: "Location"
     speakers: "Speakers"
-    schedule1: "Schedule Thursday"
-    schedule2: "Schedule Friday"
+    #schedule1: "Schedule Thursday"
+    #schedule2: "Schedule Friday"
     # tickets: "Tickets"
     sponsors: "Sponsors"
-    partners: "Partners"
+    #partners: "Partners"
     contact: "Contact"
 
   # The Call To Action button at the header,

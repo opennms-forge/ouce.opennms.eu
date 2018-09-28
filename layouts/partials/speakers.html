@@ -15,7 +15,7 @@
       {{ end }}
     </h3>
     <p class="speakers-bio">{{ .bio }}<br/>
-    <p class="speaker-slides"><a href="/img/{{ .slidefile }}" target="_blank"><img src="/img/{{ .slidethumbnail }}" /></a></p>
+    <p class="speaker-slides"><a href="/img/{{ .slidefile }}" target="_blank"><img src="/img/{{ .slidethumbnail }}" alt="{{ .slidefile }}" title="{{ .slidefile }}" /></a></p>
     {{ with .twitter }}
       <a href="{{ . }}" class="social-media-icon" target="_blank" title="Twitter link">
         <i class="fab fa-twitter"></i>
