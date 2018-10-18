@@ -44,6 +44,7 @@ params:
     # - tickets
     # - location
     - speakers
+    - videos
     #- schedule1
     #- schedule2
     # - partners
@@ -58,6 +59,7 @@ params:
     #schedule1: "Schedule Thursday"
     #schedule2: "Schedule Friday"
     # tickets: "Tickets"
+    videos: "Conference Video Playlist"
     sponsors: "Sponsors"
     #partners: "Partners"
     contact: "Contact"
