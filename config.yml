@@ -89,6 +89,7 @@ params:
       linkedin: "https://www.linkedin.com/in/davidhustace"
       slidethumbnail: David_Hustace-OpenNMS_Now_and_the_Future.jpg
       slidefile: ouce2018-David_Hustace-OpenNMS_Now_and_the_Future.pdf
+      mail: "david@opennms.com"
 
     - name: "Jeff Gehlbach"
       photo: "/img/jeff-gehlbach.jpg"
@@ -105,6 +106,7 @@ params:
       keybase: "https://keybase.io/jeffg"
       slidethumbnail: Jeff_Gehlbach-The_HOE_Stack.jpg
       slidefile: ouce2018-Jeff_Gehlbach-The_HOE_Stack.pdf
+      mail: "jeffg@opennms.com"
 
     - name: "Uwe Bergmann"
       photo: /img/uwe-bergmann.jpg
@@ -116,6 +118,7 @@ params:
       linkedin: "https://www.linkedin.com/in/uwebergmann/"
       slidethumbnail: Uwe_Bergmann-Actual_Changes_in_IT_Management.jpg
       slidefile: ouce2018-Uwe_Bergmann-Actual_Changes_in_IT_Management.pdf
+      mail: "Uwe.Bergmann@nethinks.com"
 
     - name: "Jesse White"
       photo: /img/jesse-white.jpg
@@ -129,6 +132,7 @@ params:
       homepage: "https://www.jessewhite.ca"
       slidethumbnail: Jesse_White-OpenNMS_Integration_Patterns.jpg
       slidefile: ouce2018-Jesse_White-OpenNMS_Integration_Patterns.pdf
+      mail: "jesse@opennms.com"
 
     - name: "Jessica Hustace"
       photo: "/img/jessica-hustace.jpg"
@@ -140,6 +144,7 @@ params:
       linkedin: "https://www.linkedin.com/in/jessica-hustace-2ab15429/"
       slidethumbnail: Jessica_Hustace-OpenNMS_Community_Roundable.jpg
       slidefile: ouce2018-Jessica_Hustace-OpenNMS_Community_Roundable.pdf
+      mail: "jessi@opennms.com"
 
     - name: "Craig Gallen"
       photo: /img/craig-gallen.jpg
@@ -153,6 +158,7 @@ params:
       homepage: "http://entimoss.myzen.co.uk"
       slidethumbnail: "Craig_Gallen-IoT_and_OpenNMS.jpg"
       slidefile: "ouce2018-Craig_Gallen-IoT_and_OpenNMS.pdf"
+      mail: "cgallen@opennms.org"
 
     - name: "Benjamin Reed"
       photo: "/img/benjamin-reed.jpg"
@@ -168,6 +174,7 @@ params:
       gplus: https://plus.google.com/u/0/+BenjaminReed
       slidethumbnail: "Benjamin_Reed-Modern_JavaScript.jpg"
       slidefile: "ouce2018-Benjamin_Reed-Modern_JavaScript.pdf"
+      mail: "ranger@opennms.com"
 
     - name: "Antonio Russo"
       photo: "/img/antonio-russo.jpg"
@@ -179,6 +186,7 @@ params:
       linkedin: "https://www.linkedin.com/in/antonio-russo-2903463/"
       slidethumbnail: "Antonio_Russo-OpenNMS_Topologies.jpg"
       slidefile: "ouce2018-Antonio_Russo-OpenNMS_Topologies.pdf"
+      mail: "antonio@opennms.it"
 
     - name: "Patrick Kremser"
       photo: "/img/patrick-kremser.jpg"
@@ -189,6 +197,7 @@ params:
         text: "NETHINKS, GmbH"
       slidethumbnail: "Patrick_Kremser-Automatically_Generated_Dashboards.jpg"
       slidefile: "ouce2018-Patrick_Kremser-Automatically_Generated_Dashboards.pdf"
+      mail: "patrick.kremser@nethinks.com"
 
     - name: "David Smith"
       photo: "/img/david-smith.jpg"
@@ -199,6 +208,7 @@ params:
         text: "The OpenNMS Group, Inc."
       slidethumbnail: "David_Smith-Alarm_Correlation.jpg"
       slidefile: "ouce2018-David_Smith-Alarm_Correlation.pdf"
+      mail: "smith@opennms.com"
 
     - name: "Ronny Trommer"
       photo: "/img/ronny-trommer.png"
@@ -214,6 +224,7 @@ params:
       gplus: "https://plus.google.com/102627149457811467262"
       slidethumbnail: "Ronny_Trommer-Docker_Hello_Ground.jpg"
       slidefile: "ouce2018-Ronny_Trommer-Docker_Hello_Ground.pdf"
+      mail: "ronny@opennms.com"
 
   # Schedule for Day 1
   Schedule1:

@@ -16,6 +16,11 @@
     </h3>
     <p class="speakers-bio">{{ .bio }}<br/>
     <p class="speaker-slides"><a href="/img/{{ .slidefile }}" target="_blank"><img src="/img/{{ .slidethumbnail }}" alt="{{ .slidefile }}" title="{{ .slidefile }}" /></a></p>
+    {{ with .mail }}
+    <a href="mailto:{{ . }}" class="social-media-icon" atarget="_blank" title="E-Mail link">
+        <i class="far fa-envelope"></i>
+    </a>
+    {{ end }}
     {{ with .twitter }}
       <a href="{{ . }}" class="social-media-icon" target="_blank" title="Twitter link">
         <i class="fab fa-twitter"></i>
